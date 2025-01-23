@@ -2,4 +2,4 @@
 - 👀 I’m interested in machine learning and web development
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me chacetan8216@gmail.com
-- currently looking for opportunities to visit companies in sanfrancisco in february 2025
+- Working on my portfolio!!
