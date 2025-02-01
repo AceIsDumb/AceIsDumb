@@ -1,11 +1,11 @@
-# hello, I'm Chace
+# Hello, I'm Chace
 
-## abt me
+## About me
 my name is Chace
 currently studying at the school of science and technology
 passionate about artificial intelligence and machine learning
 html simp
 
-## skills
+## My Skills
 web/native development
 ui design
