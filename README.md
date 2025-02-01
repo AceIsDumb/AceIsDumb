@@ -1,12 +1,19 @@
 # Hello, I'm Chace
 [linkedin](https://www.linkedin.com/in/chace-tan-ba72162ba/)
-## About me
+## About me 🤗
 - My name is Chace
 - currently studying at the school of science and technology
 - passionate about artificial intelligence and machine learning
 - html simp
-- ACTO React@SST INC.
+- 2024 ACTO React@SST INC.
+  
+## My Skills 💻
+- React Native/JS
+- HTML/CSS
+- Python
+- Flutter
+- UI design
 
-## My Skills
-- web/native development
-- ui design
+## Some Projects 📁
+- [2024 SST Open House App](https://github.com/sst-inc/openhouseapp2024)
+- UI for [SST Virtual Tour app](https://github.com/tedydevmac/virtualtour)
