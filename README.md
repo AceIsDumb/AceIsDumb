@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @AceIsDumb
-- 👀 I’m interested in machine learning and web development
-- 🌱 I’m currently learning computer science
-- 📫 How to reach me chacetan8216@gmail.com
-- Working on my portfolio!!
+# hello, I'm Chace
+
+## abt me
+my name is Chace
+currently studying at the school of science and technology
+passionate about artificial intelligence and machine learning
+html simp
+
+## skills
+web/native development
+ui design
