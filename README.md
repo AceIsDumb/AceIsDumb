@@ -1,6 +1,6 @@
 # Hello, I'm Chace
+- lets connect!
 [linkedin](https://www.linkedin.com/in/chace-tan-ba72162ba/)
-[very very wip portfolio site](https://my-portfolio-git-main-aceisdumbs-projects.vercel.app/)
 ## About me 🤗
 - My name is Chace
 - currently studying at the school of science and technology
