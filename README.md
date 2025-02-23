@@ -3,13 +3,13 @@
 [linkedin](https://www.linkedin.com/in/chace-tan-ba72162ba/)
 ## About me 🤗
 
-Hello 👋 I'm Chace, a secondary 4 student from the School of Science and Technology, and a frontend web and native developer.\
+Hello 👋 I'm Chace, a secondary 4 student from the School of Science and Technology, and a frontend web and native developer.
 
-In 2024, I was the ACTO@SST Inc. where I taught my juniors React Native. I also went for many courses to sharpen my skills in development.\
+In 2024, I was the ACTO@SST Inc. where I taught my juniors React Native. I also went for many courses to sharpen my skills in development.
 
-I enjoy networking with like minded individuals, with a passion about development and artificial intelligence. Between my studies and working on my portfolio, I'm either playing guitar or working on side projects.\
+I enjoy networking with like minded individuals, with a passion about development and artificial intelligence. Between my studies and working on my portfolio, I'm either playing guitar or working on side projects.
 
-If you'd like to contact me, go ahead and drop me a connection request and we can have a chat!\
+If you'd like to contact me, go ahead and drop me a connection request and we can have a chat!
 
 ## My Skills 💻
 <p>
