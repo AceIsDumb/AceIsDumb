@@ -22,3 +22,4 @@ If you'd like to contact me, go ahead and drop me a connection request and we ca
 ## Some Projects 📁
 - [2024 SST Open House App](https://github.com/sst-inc/openhouseapp2024)
 - UI for [SST Virtual Tour app](https://github.com/tedydevmac/virtualtour)
+- [Sokudo!](https://github.com/AceIsDumb/sokudo)
