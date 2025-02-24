@@ -22,7 +22,7 @@ If you'd like to contact me, go ahead and drop me a connection request and we ca
 
 Macbook m1 2020
 
-Dualboot MacOS and Kali linux
+Dualboot MacOS and Asahi linux
 
 ## Some Projects 📁
 - [2024 SST Open House App](https://github.com/sst-inc/openhouseapp2024)
