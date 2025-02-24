@@ -18,6 +18,11 @@ If you'd like to contact me, go ahead and drop me a connection request and we ca
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
+## My Device 🐧
+
+Macbook m1 2020
+
+Dualboot MacOS and Kali linux
 
 ## Some Projects 📁
 - [2024 SST Open House App](https://github.com/sst-inc/openhouseapp2024)
