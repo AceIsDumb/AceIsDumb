@@ -18,6 +18,7 @@ If you'd like to contact me, go ahead and drop me a connection request and we ca
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aceisdumb)](https://github.com/anuraghazra/github-readme-stats)
 ## My Device 🐧
 
 Macbook m1 2020
