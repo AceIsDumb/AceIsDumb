@@ -1,7 +1,11 @@
 # Hello, I'm Chace
 - lets connect!
+<p>
+    <a href="https://www.linkedin.com/in/chace-tan-ba72162ba/"><img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+- My portfolio
+<p>
+    <a href="[https://en.wikipedia.org/wiki/HTML](https://portfolio-git-main-aceisdumbs-projects.vercel.app/)"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"></a>
 
 
 ## About me 🤗
