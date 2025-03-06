@@ -25,7 +25,6 @@ If you'd like to contact me, go ahead and drop me a connection request and we ca
 ## My Device 🐧
 
 ![Static Badge](https://img.shields.io/badge/Macbook%20Air%20M1-grey)
-
 ![Static Badge](https://img.shields.io/badge/MacOS-grey)  ![Static Badge](https://img.shields.io/badge/Asahi%20Linux-blue)
 
 
