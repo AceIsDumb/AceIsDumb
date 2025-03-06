@@ -23,16 +23,21 @@ I enjoy networking with passionate fellow developers and am very interested in A
 
 I'm always open to new opportunities and collaborations, so feel free to reach out to me! 
 ## My Skills 💻
+Languages: 
 <p>
     <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    
+
+Frameworks: 
+
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+
+Design Tools: 
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
