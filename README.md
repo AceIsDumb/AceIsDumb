@@ -6,7 +6,7 @@ Lets connect!
 
 My portfolio
 <p>
-    <a href="[https://en.wikipedia.org/wiki/HTML](https://portfolio-git-main-aceisdumbs-projects.vercel.app/)"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="https://portfolio-git-main-aceisdumbs-projects.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"></a>
 
 
 ## About me 🤗
