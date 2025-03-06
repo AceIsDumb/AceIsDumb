@@ -1,7 +1,7 @@
 # Hello, I'm Chace
 - lets connect!
 <p>
-    <a href="https://www.linkedin.com/in/chace-tan-ba72162ba/"><img alt="linkedin" src="https://img.shields.io/badge/Linkedin-darkblue"></a>
+    <a href="https://www.linkedin.com/in/chace-tan-ba72162ba/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-blue"></a>
 
 
 ## About me 🤗
