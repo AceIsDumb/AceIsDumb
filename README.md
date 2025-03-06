@@ -1,4 +1,4 @@
-# Hello, I'm Chace
+# Hello, I'm Chace! 🫶
 - lets connect!
 <p>
     <a href="https://www.linkedin.com/in/chace-tan-ba72162ba/"><img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
