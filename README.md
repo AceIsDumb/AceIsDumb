@@ -1,6 +1,9 @@
 # Hello, I'm Chace
 - lets connect!
-[linkedin](https://www.linkedin.com/in/chace-tan-ba72162ba/)
+<p>
+    <a href="https://www.linkedin.com/in/chace-tan-ba72162ba/"><img alt="linkedin" src="https://img.shields.io/badge/Linkedin-darkblue"></a>
+
+
 ## About me 🤗
 
 Hello 👋 I'm Chace, a secondary 4 student from the School of Science and Technology, and a frontend web and native developer.
@@ -21,9 +24,11 @@ If you'd like to contact me, go ahead and drop me a connection request and we ca
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aceisdumb)](https://github.com/anuraghazra/github-readme-stats)
 ## My Device 🐧
 
-Macbook m1 2020
+![Static Badge](https://img.shields.io/badge/Macbook%20Air%20M1-grey)
 
-Dualboot MacOS and Asahi linux
+![Static Badge](https://img.shields.io/badge/MacOS-grey)  ![Static Badge](https://img.shields.io/badge/Asahi%20Linux-blue)
+
+
 
 ## Some Projects 📁
 - [2024 SST Open House App](https://github.com/sst-inc/openhouseapp2024)
