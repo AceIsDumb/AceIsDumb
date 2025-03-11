@@ -44,7 +44,7 @@ Design Tools:
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceIsDumb&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceIsDumb)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Device 🐧
 
