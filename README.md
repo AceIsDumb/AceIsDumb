@@ -1,12 +1,6 @@
 # Hello, I'm Chace! 🫶
-
-Lets connect!
-<p>
-    <a href="https://www.linkedin.com/in/chace-tan-ba72162ba/"><img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
-
-My portfolio
-<p>
-    <a href="https://chacesportfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/chace-tan-ba72162ba/"><img alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+<a href="https://chacesportfolio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"></a>
 
 
 ## About me 🤗
@@ -54,6 +48,6 @@ Design Tools:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## Some Projects 📁
-- [2024 SST Open House App](https://github.com/sst-inc/openhouseapp2024)
-- UI for [SST Virtual Tour app](https://github.com/tedydevmac/virtualtour)
-- [Sokudo!](https://github.com/AceIsDumb/sokudo)
+<a href="https://github.com/sst-inc/openhouseapp2024"><img alt="SST Open House app" src="Open house.png" width="200"></a>
+<a href="https://github.com/tedydevmac/virtualtour"><img alt="SST Virtual Tour" src="Virtual tour.png" width="200"></a>
+<a href="https://github.com/AceIsDumb/sokudo"><img alt="Sokudo!" src="Sokudo.png" width="200"></a>
