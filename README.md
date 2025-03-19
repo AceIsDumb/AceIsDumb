@@ -48,8 +48,10 @@ Design Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceIsDumb)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Device 🐧
+<p>
+    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+</p>
 
-![Static Badge](https://img.shields.io/badge/Macbook%20Air%20M1-grey)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)  [![Asahi Linux](https://img.shields.io/badge/Asahi%20Linux-A61200?logo=asahilinux&logoColor=fff)](#)
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
