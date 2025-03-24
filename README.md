@@ -11,7 +11,7 @@ In 2023, I began to find my passion for web development, and decided on joining 
 
 In 2024, I was the ACTO@SST Inc. where I taught my juniors React Native. I also went for many courses to sharpen my skills in development.
 
-This year, I'm attending all sorts of tech programs like Hackathons and Capture The Flags to excercise my development abilities and further my portfolio.
+This year, I'm attending all sorts of tech programs like Hackathons and Capture The Flags to exercise my development abilities and further my portfolio.
 
 I enjoy networking with passionate fellow developers and am very interested in Artificial Intelligence. Between my studies, developing and classes, you can find me playing guitar or working on side projects
 
